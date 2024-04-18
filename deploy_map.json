@@ -42,6 +42,17 @@
             "dns_domain": "",
             "github_repo_name": "",
             "github_repo_owner": ""
+        },
+        {
+            "aws_account_number": "730335267181",
+            "region": "us-east-2",
+            "branch": "aws/trashai",
+            "public_bucket": "trash-ai-public",
+            "dns_domain_map_root": false,
+            "dns_domain": "trashai.org",
+            "github_repo_name": "trash-ai",
+            "github_repo_owner": "hentlol"
         }
+        
     ]
 }
